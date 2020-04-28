@@ -1,3 +1,0 @@
-/Users/cmer/nand2tetris/projects/06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/cmer/nand2tetris/projects/06/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/cmer/nand2tetris/projects/06/cmake-build-debug/CMakeFiles/06.dir
